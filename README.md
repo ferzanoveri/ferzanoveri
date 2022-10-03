@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ferza Noveri</h1>
+<h3 align="center">A passionate frontend developer and full-time learner</h3>
+
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **ferzanoveri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ferza noveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferza noveri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ferza nffffffferza nferza nffffffferza nferza nferza n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferza nffffffferza nferza nffffffferza nferza nferza n" height="30" width="40" /></a>
 <a href="https://instagram.com/ferzanoveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferzanoveri" height="30" width="40" /></a>
 </p>
 
