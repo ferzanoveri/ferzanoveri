@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferza Noveri</h1>
 <h3 align="center">A passionate frontend developer and full-time learner</h3>
 
-- 🌱 I’m currently learning **React** and **Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **ferzanoveri@gmail.com**
 
